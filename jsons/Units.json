@@ -1,7 +1,7 @@
 [
     {
 		"name": "T-34",
-        "uniqueTo": "Soviet Union",
+        "uniqueTo": "Kota Blitar",
         "replaces": "Tank",
 		"unitType": "Armored",
 		"movement": 7,
