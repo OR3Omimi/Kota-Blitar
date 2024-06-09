@@ -11,7 +11,7 @@
     {
 	"name":"Casino",
 	"replaces": "Bank",
-	"uniqueTo":"Israel",
+	"uniqueTo":"Kabupaten Biltar",
 	"isWonder": false,
 	"gold":10,
 	"percentStatBonus": {"gold": 10},
