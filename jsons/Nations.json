@@ -1,5 +1,5 @@
 [{
-    "name":"Soviet Union",
+    "name":"Kota Blitar",
     "leaderName": "Stalin",
     "startBias": ["Tundra"],
 
@@ -9,13 +9,13 @@
     "outerColor": [51, 0, 0],
     "innerColor": [178, 63, 63],
 
-    "cities": ["Moscow","Leningrad","Stalingrad","Kuibishev","Kiev","Omsk","Baku","Harkow","Minsk","Gorkiy","Novosibirsk",
+    "cities": ["Blitar","Leningrad","Stalingrad","Kuibishev","Kiev","Omsk","Baku","Harkow","Minsk","Gorkiy","Novosibirsk",
     "Sverdlovsk","Tbilisi","Dnepropetrovsk","Tashkent","Murmansk","Vladiwostok","Vladimir", "Nizhny Novgorod", "Velikiy Novgorod", "Ryazan", "Novgorod", "Simpheropol", "Sevastopol"],
 
     "uniques": ["[-1 Faith] per [4] population [in all cities]", "Starts with [Mining]", "[+1 Production] per [3] population [in all cities]"]
 },
 {
-    "name":"Israel",
+    "name":"Kabupaten Blitar",
     "leaderName": "Isaac Hersog",
     "startBias": ["Desert"],
 
